@@ -1,0 +1,69 @@
+<!DOCSTYLE html>
+<html lang="en">
+<meta charset="utf-8">
+<header>
+	<font color="blue">Purchase Merchandise<h3>Page 7</h3>
+	<title>Purchase Merchandise</title>
+	
+<body>	
+<nav>	
+	<html="url" Big Sky Photo Adventures</html">
+	<link rel="stylesheet" href="index.html" type="text/css">
+	<link href="big sky.css" rel="stylesheet" type="text/css">
+	<title>Big Sky Photo Adventures</title>	
+	
+
+
+
+
+
+	<html="url" Big Sky Photo Adventures</html">
+	<link rel="stylesheet" href="index.html" type="text/css">
+
+
+
+</nav>
+
+
+
+	<b>
+			
+		<a href="index.html">Home</a>
+			
+	</b>
+	
+	</nav>
+
+
+
+
+
+<main>
+	
+	<h1><font color="blue">THIS PAGE IS CURRENTLY UNDER CONSTRUCTION. But, just wait. When its done...<br>
+	<B> ITS GONNA BE AWESOME!!!!!!</B></h1>
+	<h1><b><font color="BLUE">BUY STUFF OR ELSE!</b></h1>
+	<h2><font color="red"> HARD HATS REQUIRED!!! </h2>
+	</main>
+<footer>
+	<title=image "hard_hat.jpg"</title>
+	<img src="hard_hat.jpg."width=200 height=200>
+
+
+	<title=image"eye see you.jpg"</title>
+
+	<sp><img src="eye see you.jpg."width=200 height=200>
+
+
+	<tr><td><i><h1><b><img="eye see you">Pictures like this will be available to purchase:</b></h1></i></td></tr>
+	</table>
+	<small><i><font color="blue">Copyright &copy; 2018 Big Sky Photo Adventures</i></small>
+	<img src="hard_hat.jpg">
+</footer>
+
+
+</body>
+
+
+
+</html>

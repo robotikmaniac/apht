@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>Big Sky Photo Adventures Contact Page</title>
+<br><h1>Contact Info</h1></br>
+<h7><b>Page 2</b></h7>
+<head>
+
+<isindex>
+
+	<html="url Big Sky Photo Adventures"</html>
+<link rel="stylesheet" href="index.html" type="text/css">
+<meta charset="utf-8">
+</isindex>
+</head>
+<style>
+body {
+	background: url("blue_moon.jpg")
+}
+	
+
+
+</style>
+<header>
+<h1><b>Big Sky Photo Adventures</br></h1>
+<link rel="stylesheet" href="index.html" type="text/css">
+
+</header>
+<nav>
+
+
+
+		<b>
+			
+			<a href="index.html">Home</a>
+			
+		</b>
+</font>		
+
+	<h1> Contact us at the following address</h1>
+	<h2>Big Sky Photo Adventures<br>
+	PO Box 0718<br>
+	Chigger Fall, MT. 59404</h2>
+
+<a href="mailto:bigskyphotoadventures@bigskyphotoadventures.com">TheBigSkyTeam@bigskyphotoadventures.com</a>	
+
+
+
+
+</nav>
+
+<div>
+<footer>
+<p>
+
+<H4><i>Where the Big Sky meets the InnerWebs</i></h4>
+&nbsp; &nbsp;&nbsp; &nbsp; 
+ <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" /> 
+
+</p>
+</nav>
+</div>
+
+</footer>
+<font color="orange";
+</body>
+</html>
+<hr>
+<hr>

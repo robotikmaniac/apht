@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>Big Sky Photo Adventures Contact Page</title>
+<br>Contact Info</br>
+<head>
+<link rel="stylesheet" href="index.css">
+
+
+<isindex>
+	<html="url" "Big Sky Photo Adventures"</html>
+<link rel="stylesheet" href="index.html" type="text/css">
+<meta charset="utf-8">
+<style> 
+
+</div>
+</isindex>
+</head>
+
+<body>
+<header>
+<h1><b>Big Sky Photo Adventures</br></h1>
+<link rel="stylesheet" href="index.html" type="text/css">
+
+</header>
+<nav>
+
+
+
+		<b>
+			<a href="index.html">Home</a>
+			<a href="index.html">Contact Us</a>
+			<a href="index.html">Activities for Picture Taking</a>
+			<a href="index.html">Places to go with Directions</a>
+		</b>
+		
+
+	<h1> Contact us at the following address</h1>
+	<h2>Big Sky Photo Adventures<br>
+	PO Box 0718<br>
+	Chigger Fall, MT. 59404</h2>
+	
+
+
+
+
+</nav>
+
+
+
+
+
+
+<div>
+<footer>
+<p>
+&nbsp; &nbsp;&nbsp; &nbsp;<a href=mailto: "bigskyphotoadventures@bigskyphotoadventures.com">bigskyphotoadventures@bigskyphotoadventures.com </span></i><span></a>
+<H4><i>Where the Big Sky meets the InnerWebs</i></h4>
+&nbsp; &nbsp;&nbsp; &nbsp; 
+ <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" /> 
+
+</p>
+
+</div>
+
+</footer>
+</body>
+</html>

@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<title>Place to go with Directions</title>
+<meta charset="utf-8">
+
+
+</head>
+<body>
+<header>
+	 <h1><b><i><strong><font color="orange">Places to go with Directions</font></strong></i></b></h1>
+
+</header>
+
+</body>
+
+
+
+</html>
+
